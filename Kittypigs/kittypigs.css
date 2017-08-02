@@ -1,0 +1,11 @@
+ body{
+     background: linear-gradient(to right,red,yellow,orange,greenyellow,yellow,hotpink,peachpuff ,skyblue); /* Standard syntax */
+ 
+}
+
+#borderimg2 {
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image: url(border.png) 20% round;
+}
+

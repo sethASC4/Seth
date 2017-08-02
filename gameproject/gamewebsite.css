@@ -1,0 +1,21 @@
+
+
+@media(max-width:1334px){
+body{
+	text-align: center;
+	color: black;
+	background: #f7f7f7;
+}
+.jumbotron{
+    text-align:center;
+
+}
+.text{
+    text-align:center;
+    float:none;
+    
+}
+}
+@media(min-width:750px){
+
+}

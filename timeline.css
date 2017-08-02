@@ -1,0 +1,32 @@
+.indians{
+border:solid 10px navy;
+background-color:red;
+}
+
+.sox{
+    border:solid 10px red;
+    background-color:navy;
+    color:white;
+}
+
+.dodgers{
+    border:solid 10px dodgerblue;
+    background-color:white;
+}
+
+.whitesox{
+    border:solid 10px black;
+    background-color:white;
+}
+
+img{
+    width:40%;
+}
+
+body{
+    text-align:center;
+    background-image:url("https://nbchardballtalk.files.wordpress.com/2014/03/indians-logo.png?w=640");
+    background-size:33.3%;
+
+
+}
